@@ -1,6 +1,7 @@
 ---
-layout: post
+
 title:  "Introduction to cloud computing!"
+date: 2019-02-09
 ---
 ## An Introduction to Cloud Computing 
 Cloud computing consists of three distinct types of computing services delivered remotely to clients via the internet. 
