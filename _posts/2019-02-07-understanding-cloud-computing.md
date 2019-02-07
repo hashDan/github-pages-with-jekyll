@@ -1,5 +1,5 @@
 ---
-title: "Introduction to cloud computing!"
+title: "Introduction to cloud computing"
 date: 2019-02-09
 ---
 ## An Introduction to Cloud Computing 
